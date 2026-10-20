@@ -1,0 +1,83 @@
+{
+  "grid_size": 20,
+  "start": [
+    1,
+    1
+  ],
+  "goal": [
+    18,
+    18
+  ],
+  "best_waypoints": [
+    [
+      1,
+      4
+    ],
+    [
+      8,
+      5
+    ],
+    [
+      10,
+      4
+    ],
+    [
+      10,
+      10
+    ],
+    [
+      15,
+      7
+    ],
+    [
+      18,
+      14
+    ],
+    [
+      8,
+      13
+    ],
+    [
+      6,
+      5
+    ]
+  ],
+  "speed_levels": [
+    3,
+    3,
+    2,
+    2,
+    2,
+    3,
+    2,
+    3
+  ],
+  "sensor_activation": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0
+  ],
+  "metrics": {
+    "fitness": -7.723785440613027,
+    "coverage": 0.20555555555555555,
+    "target_detection": 0.3125,
+    "energy_cost": 94.55,
+    "time_cost": 34.4,
+    "risk_ratio": 0.14942528735632185,
+    "blocked_steps": 0,
+    "distance_steps": 86
+  },
+  "sensitivity_best_fitness": {
+    "Small population": -7.90631593038822,
+    "Default": -7.723785440613027,
+    "Large population": -7.723785440613027,
+    "Low mutation": -7.723785440613027,
+    "High mutation": -7.723785440613027
+  },
+  "note": "Synthetic teaching simulation; not for real-world flight."
+}
